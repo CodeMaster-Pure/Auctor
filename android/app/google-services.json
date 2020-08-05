@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "project_number": "53708015755",
+    "firebase_url": "https://plotgenerator-3182c.firebaseio.com",
+    "project_id": "plotgenerator-3182c",
+    "storage_bucket": "plotgenerator-3182c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53708015755:android:e8cb5af55f267f63",
+        "android_client_info": {
+          "package_name": "com.plotgen.rramirez.plotgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53708015755-lsm5vrpbkdh6spjnrn2r54j9m6j2k19j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "e37600029650e1267de1027914b0042bb0e9ef7b"
+          }
+        },
+        {
+          "client_id": "53708015755-duooabmp7567c5c70efc9n58aogputju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "86626fc2c4203875f555293bc3ea6ddf72f91791"
+          }
+        },
+        {
+          "client_id": "53708015755-pkbkgd7105fsor33qs1tpao10urejmm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "dc062923b6c0814c51432b7dfb07be5039e58156"
+          }
+        },
+        {
+          "client_id": "53708015755-l96c9iu4bao5r43rkptdj9j8of5hrbah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "3b9d211e6c8538bc56841d371d00007e94cd1ea9"
+          }
+        },
+        {
+          "client_id": "53708015755-62j48m1rf8df13s9ttbjlr3ob6g5rbm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "36a7a9d8a540ac3aa85a32a2e30097c64a615df4"
+          }
+        },
+        {
+          "client_id": "53708015755-ke9bpmcmk7r2gau4qkqebn4ai5ap3o1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "b43a186a3036e4887539c4536293c33b6140052c"
+          }
+        },
+        {
+          "client_id": "53708015755-l69igfadmm8h67r7gjlr4ad262d648ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "ddfcab633cfbdcf881b48d3caa0d5b7502359d57"
+          }
+        },
+        {
+          "client_id": "53708015755-b46o34tgaqteh2vuijlp1htco002juqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "09d6fa51b0583341c547ee55720d4f02c80a5449"
+          }
+        },
+        {
+          "client_id": "53708015755-24mibk7s387o3a7u864vp362vcfk1ktd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plotgen.rramirez.plotgenerator",
+            "certificate_hash": "2ea8f82bbe8ed2760740b881edbe413992d0b4f9"
+          }
+        },
+        {
+          "client_id": "53708015755-uduujv2f9memdcpnb52mjksrut43m7n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2C5xlKqaz16bhcEI2YIvfWIwbelyYrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53708015755-uduujv2f9memdcpnb52mjksrut43m7n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53708015755-os5rncjcodmema581tmifm50n2t3ggcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plotgen.rramirez.plotgenerator"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6696437403163667~6953226633"
+    }
+  ],
+  "configuration_version": "1"
+}
